@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace Aula01.Conteudo
+namespace Aula01
 {
     public class Programa02
     {
@@ -27,7 +29,7 @@ namespace Aula01.Conteudo
             Console.WriteLine(15 + 5); //soma
             Console.WriteLine(15 - 5); //substração
             Console.WriteLine(15 * 5); //multiplicação
-           
+
             Console.WriteLine(15 / 5); //divisão --> 3
             Console.WriteLine(15 / 4); //divisão --> 3
             Console.WriteLine(15 / 4.0); //divisão --> 3.75

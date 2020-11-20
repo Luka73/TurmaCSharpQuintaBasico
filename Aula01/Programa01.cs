@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Aula01.Conteudo
+namespace Aula01
 {
     public class Programa01
     {
