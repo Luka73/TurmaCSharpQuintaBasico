@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula02\\Aula02.csproj",
-      "projectName": "Aula02",
-      "projectPath": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula02\\Aula02.csproj",
+      "projectUniqueName": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula03\\Aula03.csproj",
+      "projectName": "Aula03",
+      "projectPath": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula03\\Aula03.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula02\\obj\\",
+      "outputPath": "C:\\Users\\luana\\source\\repos\\TurmaCSharpQuintaBasico\\Aula03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",
