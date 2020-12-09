@@ -1,0 +1,7 @@
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\bin\Debug\Aula04.exe
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\bin\Debug\Aula04.pdb
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\obj\Debug\Aula04.csprojAssemblyReference.cache
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\obj\Debug\Aula04.exe
+C:\Users\luana\source\repos\TurmaCSharpQuintaBasico\Aula04\obj\Debug\Aula04.pdb
